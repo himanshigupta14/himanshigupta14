@@ -1,10 +1,5 @@
-# Hi there 👋
-##🌟 Full-Stack Developer Portfolio 🌟  
-
-Welcome to my portfolio! Here, you’ll find a showcase of my expertise in creating robust, user-friendly, and efficient full-stack applications. Explore my projects and get a glimpse of the technologies I specialize in! 🚀  
-
----
-
+#                                        Hi there 👋
+##🌟 Full-Stack Developer🌟  
 ## 👨‍💻 About Me  
 
 Hi! I'm a passionate **Full-Stack Developer** with a knack for problem-solving and building end-to-end solutions. From crafting interactive front-ends to designing scalable back-ends, I thrive on creating seamless digital experiences.  
