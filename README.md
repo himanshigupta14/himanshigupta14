@@ -1,5 +1,5 @@
 #                                        Hi there 👋
-##🌟 Full-Stack Developer🌟  
+🌟 Full-Stack Developer🌟  
 ## 👨‍💻 About Me  
 
 Hi! I'm a passionate **Full-Stack Developer** with a knack for problem-solving and building end-to-end solutions. From crafting interactive front-ends to designing scalable back-ends, I thrive on creating seamless digital experiences.  
