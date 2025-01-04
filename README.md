@@ -4,7 +4,7 @@
 
 Hi! I'm a passionate **Full-Stack Developer** with a knack for problem-solving and building end-to-end solutions. From crafting interactive front-ends to designing scalable back-ends, I thrive on creating seamless digital experiences.  
  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+💼 LinkedIn: [LinkedIn Profile](https://in.linkedin.com/in/himanshi-gupta-438122229)  
 ---
 
 ## 🛠️ My Skill Set  
@@ -77,7 +77,7 @@ An automated tool for penetration testing SSH servers. Features:
 ## ✨ Let's Connect!  
 
 <!--🌐 **Website**: [yourwebsite.com](https://yourwebsite.com)-->  
-💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+💼 **LinkedIn**: [LinkedIn Profile](https://in.linkedin.com/in/himanshi-gupta-438122229)  
 <!--📧 **Email**: [your.email@example.com](mailto:your.email@example.com)-->
 
 ---
