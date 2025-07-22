@@ -1,101 +1,32 @@
-#                                        Hi there 👋
-🌟 Full-Stack Developer🌟  
-## 👨‍💻 About Me  
+<h1 align="center">Hi 👋, I'm Himanshi Gupta</h1>
+<h3 align="center">A passionate Frontend Developer , Data analyst</h3>
 
-Hi! I'm a passionate **Full-Stack Developer** with a knack for problem-solving and building end-to-end solutions. From crafting interactive front-ends to designing scalable back-ends, I thrive on creating seamless digital experiences.  
- 
-💼 LinkedIn: [LinkedIn Profile](https://in.linkedin.com/in/himanshi-gupta-438122229)  
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshigupta14" alt="himanshigupta14" /></a> </p>
 
-## 🛠️ My Skill Set  
+<p align="left"> <a href="https://twitter.com/itshimanshii" target="blank"><img src="https://img.shields.io/twitter/follow/itshimanshii?logo=twitter&style=for-the-badge" alt="itshimanshii" /></a> </p>
 
-### Front-End 🌟  
-- **Languages**: HTML5, CSS3, JavaScript (ES6+)  
-- **Frameworks**: React.js, Angular  
-- **Libraries**: Bootstrap, Tailwind CSS  
-- **Tools**: Webpack, Babel, Figma  
+- 🔭 I’m currently working on **Women Safety Application**
 
-### Back-End 🔧  
-- **Languages**: Python, Java, JavaScript (Node.js)  
-- **Frameworks**: Django, Flask, Express.js  
-- **Databases**: MySQL, PostgreSQL, MongoDB  
-- **API Development**: REST, GraphQL  
+- 🌱 I’m currently learning **Python**
 
-### Other Expertise 🚀  
-- **Version Control**: Git, GitHub  
-- **Deployment**: Docker, AWS, Heroku  
-- **Testing**: Jest, Selenium  
-- **Networking**: Firewalls, Packet Filtering, Security  
+- 💬 Ask me about **HTML, CSS, JavaScript, Python**
 
----
+- 📫 How to reach me **himanshigupta064@gmail.com**
 
-## 🚀 Featured Projects  
+- ⚡ Fun fact **"I trust R-squared values more than weather forecasts."**
 
-### 🏛️ [Court Case Management System](https://github.com/username/court-case-management)  
-**Tech Stack**: Django, Bootstrap, JavaScript  
-A comprehensive web application designed for managing court cases and legal processes. Features include:  
-✅ **Case Tracking**: Monitor the progress of legal cases in real-time.  
-✅ **Document Management**: Upload and access legal documents securely.  
-✅ **Attorney & Client Portals**: Seamless interaction through role-specific portals.  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/itshimanshii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itshimanshii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himanshi gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshi gupta" height="30" width="40" /></a>
+<a href="https://instagram.com/himanshigupta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshigupta04" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### 🔒 [HGvault: Firewall Solution](https://github.com/username/hgvault)  
-**Tech Stack**: Python, Flask, SQLite  
-A Python-based software firewall with a focus on network security. Highlights:  
-✅ **Packet Filtering**: Monitors and controls network traffic effectively.  
-✅ **User Dashboard**: Configure rules and view activity logs with ease.  
-✅ **Secure Environment**: Ensures network integrity with enhanced filtering.  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshigupta14&show_icons=true&locale=en&layout=compact" alt="himanshigupta14" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshigupta14&show_icons=true&locale=en" alt="himanshigupta14" /></p>
 
-### 🕵️‍♂️ [HGGoblinScout: Advanced Directory Brute Force](https://github.com/username/hggoblinscout)  
-**Tech Stack**: Python, Multi-threading  
-A powerful directory brute-forcing tool for penetration testing. Key features:  
-✅ **High Speed**: Multi-threading for efficient scans.  
-✅ **Custom Wordlists**: Generate dynamic wordlists on-the-fly.  
-✅ **Detailed Reports**: Generate log files for analysis.  
-
----
-
-### 🕵️‍♀️ [HGexplo: Automated SSH Exploitation](https://github.com/username/hgexplo)  
-**Tech Stack**: Python, Paramiko  
-An automated tool for penetration testing SSH servers. Features:  
-✅ **Password Brute Force**: Identify weak SSH credentials.  
-✅ **Concurrent Sessions**: Perform multi-threaded scans.  
-✅ **Flexible Configuration**: Set target hosts and parameters with ease.  
-
----
-
-<!--## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  -->
-
----
-
-## ✨ Let's Connect!  
-
-<!--🌐 **Website**: [yourwebsite.com](https://yourwebsite.com)-->  
-💼 **LinkedIn**: [LinkedIn Profile](https://in.linkedin.com/in/himanshi-gupta-438122229)  
-<!--📧 **Email**: [your.email@example.com](mailto:your.email@example.com)-->
-
----
-
-
-
-
-<!--
-**himanshigupta14/himanshigupta14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshigupta14&" alt="himanshigupta14" /></p>
